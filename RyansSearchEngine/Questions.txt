@@ -1,0 +1,512 @@
+What is the closest planet to the Sun?
+What planet is known as the Red Planet?
+What is the largest planet in the solar system?
+What planet is known for its rings?
+What is the smallest planet in the solar system?
+What planet is known as the Earth's twin?
+What planet is known as the Blue Planet?
+What planet is known as the Morning Star?
+What planet is known for its Great Red Spot?
+What planet has the most moons?
+What planet is known as the Ice Giant?
+What is the smallest dwarf planet?
+What is the largest dwarf planet?
+What is the hottest planet in the solar system?
+What planet has the longest day?
+What planet has the shortest day?
+What planet has the highest mountain?
+What planet has the largest volcano?
+What planet has the deepest canyon?
+What planet is known as the Gas Giant?
+What planet is known as the Ice Giant?
+What planet has a tilted axis?
+What planet has the strongest winds?
+What planet has a moon named Titan?
+What planet has a moon named Ganymede?
+What is the largest moon in the solar system?
+What is the smallest moon in the solar system?
+What is the most volcanically active body in the solar system?
+What is the coldest planet in the solar system?
+What planet has a moon named Triton?
+What planet is known as the Morning Star?
+What planet is known as the Evening Star?
+What planet has the largest ice caps?
+What planet has the highest density?
+What planet has the lowest density?
+What planet has the strongest magnetic field?
+What planet has the weakest magnetic field?
+What planet has the highest surface gravity?
+What planet has the lowest surface gravity?
+What planet is known as the Earth's twin?
+What planet is known as the Blue Planet?
+What planet is known as the Ice Giant?
+What is the smallest dwarf planet?
+What is the largest dwarf planet?
+
+What is the largest ocean on Earth?
+What percentage of Earth's surface is covered by oceans?
+Which ocean is the smallest?
+What is the deepest point in the ocean called?
+Which ocean is the warmest?
+What causes ocean tides?
+What is the longest mountain range in the ocean?
+Which ocean is the coldest?
+What is the saltiest sea in the world?
+What is the name of the underwater mountain range in the Atlantic Ocean?
+What is the primary cause of ocean currents?
+Which ocean is home to the Great Barrier Reef?
+What is the name of the ocean current that flows along the east coast of the United States?
+What is the term for the area where the ocean meets the land?
+Which ocean has the most extensive underwater trench system?
+What percentage of the ocean remains unexplored?
+What is the largest sea in the world by surface area?
+What is the term for the study of oceans?
+Which ocean is the youngest geologically?
+What is the name of the phenomenon where the ocean water is unusually warm, affecting weather patterns?
+What is the average depth of the ocean?
+Which ocean is the most biodiverse?
+What is the name of the process by which seawater is desalinated to produce fresh water?
+What is the main reason for the blue color of the ocean?
+Which ocean is the most heavily traveled?
+What is the largest fish in the ocean?
+What is the name of the ocean current that circles Antarctica?
+What percentage of the world's oxygen is produced by the ocean?
+What is the name of the deepest ocean trench?
+Which ocean has the most coral reefs?
+What is the primary cause of ocean acidification?
+What is the term for the vertical movement of water in the ocean?
+What is the name of the current that flows from the Gulf of Mexico to Europe?
+What is the name of the large system of rotating ocean currents?
+What is the term for the study of ocean floor features?
+Which ocean is located between Africa, Asia, Australia, and Antarctica?
+What is the name of the process by which marine organisms convert sunlight into energy?
+What is the term for the large waves caused by underwater earthquakes?
+What is the name of the ocean layer where sunlight can penetrate?
+What is the term for the boundary between two different water masses?
+Which ocean is the most geologically active?
+What is the name of the device used to measure ocean depth?
+What is the term for the rise and fall of sea levels caused by the gravitational forces of the moon and sun?
+Which ocean is the most affected by human activity?
+What is the name of the underwater feature that is a steep-sided, flat-topped mountain?
+What is the term for the seasonal movement of marine species from one region to another?
+What is the name of the largest living structure in the ocean?
+What is the term for the cold, nutrient-rich water that rises to the surface from the deep ocean?
+Which ocean has the largest surface area?
+What is the primary source of energy for ocean life?
+What is the term for the study of marine organisms?
+Which ocean has the highest average salinity?
+What is the name of the underwater volcanic mountain range that runs down the center of the Atlantic Ocean?
+What is the term for the area of the ocean where no sunlight reaches?
+What is the name of the ocean current that moderates the climate of Western Europe?
+Which ocean has the largest number of islands?
+What is the term for the continuous movement of seawater generated by forces acting upon it?
+What is the name of the process by which marine algae and plants convert carbon dioxide into oxygen?
+Which ocean is known for having the largest amount of plastic pollution?
+What is the name of the large, circular system of ocean currents in the North Atlantic?
+What is the term for the layer of the ocean where temperature changes rapidly with depth?
+What is the name of the process by which deep, nutrient-rich water is brought to the surface?
+Which ocean is the most important for global climate regulation?
+What is the term for the variety of different species within the ocean?
+What is the name of the phenomenon where the sea level rises due to the melting of ice caps and glaciers?
+Which ocean is bordered by the Americas, Asia, and Australia?
+What is the name of the oceanic zone that extends from the low tide mark to the edge of the continental shelf?
+What is the term for the amount of salt in seawater?
+What is the name of the ocean current that influences the climate of the Pacific coast of South America?
+Which ocean has the greatest volume of water?
+What is the term for the process by which seawater is converted into fresh water by removing salts?
+What is the name of the oceanic region where new ocean floor is created by volcanic activity?
+Which ocean is known for having the most frequent and intense hurricanes?
+What is the term for the underwater area that extends from the edge of a continent to the deep ocean floor?
+What is the name of the current that flows from the Indian Ocean to the Atlantic Ocean around South Africa?
+Which ocean is the most affected by climate change?
+What is the term for the seasonal change in wind direction that affects the Indian Ocean?
+What is the name of the underwater vehicle used to explore the ocean depths?
+Which ocean is home to the world's largest whale species?
+What is the term for the process by which ocean water absorbs carbon dioxide from the atmosphere?
+Which ocean is the least polluted?
+What is the name of the large system of rotating ocean currents in the North Pacific?
+What is the term for the natural process by which the ocean absorbs heat from the atmosphere?
+Which ocean is located between North and South America, Europe, and Africa?
+What is the name of the ocean layer that lies between the surface and the deep ocean?
+What is the term for the study of ocean currents?
+Which ocean has the longest coastline?
+What is the name of the current that flows from the Arctic Ocean to the Atlantic Ocean?
+What is the term for the phenomenon where the ocean temperature is cooler than usual, affecting weather patterns?
+Which ocean has the largest number of deep-sea trenches?
+What is the term for the bottom of the ocean?
+What is the name of the oceanic region characterized by extremely high pressure and low temperature?
+Which ocean is known for having the most diverse marine life?
+What is the term for the shallow part of the ocean that lies over the continental shelf?
+What is the name of the current that flows northward along the coast of California?
+Which ocean is the most important for global shipping routes?
+What is the term for the process by which marine organisms produce light?
+
+What is the most consumed fruit in the world?
+What is the main ingredient in guacamole?
+Which country is the largest producer of coffee?
+What is the national dish of Japan?
+What is the most popular spice in the world?
+Which country is known for its pasta dishes?
+What is the main ingredient in hummus?
+What type of food is sushi?
+Which fruit is known as the king of fruits?
+What is the main ingredient in miso soup?
+What is the most consumed meat in the world?
+Which vegetable is known as a superfood for its high nutrient content?
+What is the national dish of India?
+What type of cheese is used in traditional Greek salads?
+Which fruit is the primary ingredient in wine?
+What is the main ingredient in traditional French ratatouille?
+What is the most popular dessert in Italy?
+Which country is known for its chocolate?
+What is the main ingredient in traditional Spanish paella?
+What type of food is tofu?
+Which fruit is known for its high vitamin C content?
+What is the main ingredient in falafel?
+Which country is known for its curry dishes?
+What type of food is kimchi?
+What is the most consumed beverage in the world?
+Which vegetable is used to make sauerkraut?
+What is the main ingredient in gazpacho?
+What is the national dish of Thailand?
+Which fruit is known as a symbol of hospitality?
+What type of food is gnocchi?
+What is the main ingredient in pesto sauce?
+Which country is known for its tapas?
+What type of cheese is traditionally used in a Margherita pizza?
+Which fruit is the main ingredient in a traditional Greek moussaka?
+What is the main ingredient in traditional Russian borscht?
+Which country is known for its maple syrup?
+What is the most consumed grain in the world?
+Which vegetable is used to make baba ganoush?
+What type of food is naan?
+What is the main ingredient in traditional British shepherd's pie?
+What is the most popular ice cream flavor in the world?
+Which fruit is known for its use in tropical drinks?
+What is the main ingredient in risotto?
+Which country is known for its pastries and croissants?
+What type of food is tempura?
+What is the main ingredient in traditional Mexican tamales?
+What is the most consumed nut in the world?
+Which fruit is used to make cider?
+What is the main ingredient in traditional Moroccan tagine?
+Which country is known for its baguettes?
+What type of food is pho?
+What is the main ingredient in traditional Polish pierogi?
+What is the most consumed vegetable in the world?
+Which fruit is used to make jam in France?
+What is the main ingredient in traditional Turkish kebabs?
+Which country is known for its sake?
+What type of food is couscous?
+What is the main ingredient in traditional German sauerbraten?
+What is the most consumed dairy product in the world?
+Which fruit is known for its use in Mediterranean cuisine?
+What is the main ingredient in traditional Portuguese caldo verde?
+Which country is known for its feta cheese?
+What type of food is ravioli?
+What is the main ingredient in traditional Ethiopian injera?
+What is the most consumed legume in the world?
+Which fruit is used to make marmalade in the UK?
+What is the main ingredient in traditional Lebanese tabbouleh?
+Which country is known for its sake?
+What type of food is paneer?
+What is the main ingredient in traditional Austrian schnitzel?
+What is the most consumed vegetable in the United States?
+Which fruit is used to make chutney in India?
+What is the main ingredient in traditional South African bobotie?
+Which country is known for its goulash?
+What type of food is tortillas?
+What is the main ingredient in traditional Swedish meatballs?
+What is the most consumed seafood in the world?
+Which fruit is used to make smoothies in Brazil?
+What is the main ingredient in traditional Jamaican jerk chicken?
+Which country is known for its cheese fondue?
+What type of food is couscous?
+What is the main ingredient in traditional Hungarian goulash?
+What is the most consumed fruit in the United States?
+Which fruit is used to make sorbet in Italy?
+What is the main ingredient in traditional Nigerian jollof rice?
+Which country is known for its baklava?
+What type of food is dumplings?
+What is the main ingredient in traditional Korean bibimbap?
+What is the most consumed fruit in Europe?
+Which fruit is used to make sangria in Spain?
+What is the main ingredient in traditional Egyptian koshari?
+Which country is known for its tzatziki sauce?
+What type of food is empanadas?
+What is the main ingredient in traditional Chilean cazuela?
+What is the most consumed beverage in China?
+Which fruit is used to make tart in France?
+What is the main ingredient in traditional Argentine asado?
+Which country is known for its pavlova dessert?
+What type of food is samosa?
+
+Who was the first President of the United States?
+What year did World War I begin?
+Who was the first man to walk on the moon?
+In what year did the Titanic sink?
+Who was the first female Prime Minister of the United Kingdom?
+What year did World War II end?
+Who discovered America?
+What was the name of the ship that brought the Pilgrims to America in 1620?
+Who wrote the Declaration of Independence?
+What was the ancient city of Rome's most famous amphitheater?
+Who was the leader of the Soviet Union during World War II?
+What was the name of the last Queen of France?
+What year did the Berlin Wall fall?
+Who was the first Emperor of Rome?
+What year did the American Civil War start?
+Who was the Egyptian queen who was the last active ruler of the Ptolemaic Kingdom?
+What was the primary cause of the French Revolution?
+Who was the famous Greek philosopher who taught Alexander the Great?
+What was the first successful English colony in America?
+Who was the first African American President of the United States?
+What year did the United States declare independence from Great Britain?
+Who was the first woman to fly solo across the Atlantic Ocean?
+What year did the Korean War start?
+Who was the main author of the U.S. Constitution?
+What was the primary cause of the American Civil War?
+Who was the British Prime Minister during World War II?
+What year did the Russian Revolution occur?
+Who was the first President of the United States to be impeached?
+What year did the first manned spaceflight occur?
+Who was the leader of the Mongol Empire?
+What was the name of the first artificial satellite launched into space?
+What year did the Vietnam War end?
+Who was the first Secretary-General of the United Nations?
+What year did the Spanish-American War begin?
+Who was the famous nurse known for her work during the Crimean War?
+What year did the first successful powered flight occur?
+Who was the first woman to win a Nobel Prize?
+What year did the first modern Olympic Games take place?
+Who was the ancient Greek goddess of wisdom?
+What was the name of the ship that Charles Darwin traveled on to the Galapagos Islands?
+Who was the first Prime Minister of India?
+What year did the Soviet Union collapse?
+Who was the founder of the Mongol Empire?
+What was the primary cause of the Great Depression?
+Who was the first President of the Republic of China?
+What year did the Cuban Missile Crisis occur?
+Who was the first European to reach India by sea?
+What year did the first Gulf War begin?
+Who was the Roman general who became dictator for life?
+What was the name of the first man-made object to reach the moon?
+What year did the Spanish Inquisition begin?
+Who was the famous British queen who ruled for 63 years?
+What was the primary cause of World War I?
+Who was the first person to circumnavigate the globe?
+What year did the American Revolution end?
+Who was the first woman to receive a medical degree in the United States?
+What was the name of the first permanent English settlement in America?
+What year did the Louisiana Purchase occur?
+Who was the famous African American civil rights leader who gave the "I Have a Dream" speech?
+What was the primary cause of the Cold War?
+Who was the first President of South Africa to be elected in a fully representative democratic election?
+What year did the first transatlantic telegraph cable get completed?
+Who was the first woman to be elected Prime Minister of India?
+What was the name of the first successful vaccine developed?
+What year did the Boston Tea Party take place?
+Who was the famous British naturalist who developed the theory of evolution by natural selection?
+What was the name of the ancient civilization that built the pyramids?
+What year did the first successful heart transplant occur?
+Who was the first woman to fly in space?
+What was the primary cause of the War of 1812?
+Who was the first African American woman to win an Olympic gold medal?
+What year did the first manned mission land on the moon?
+Who was the first woman to become a four-star general in the U.S. military?
+What was the name of the treaty that ended World War I?
+What year did the first atomic bomb get dropped?
+Who was the first woman to serve on the U.S. Supreme Court?
+What was the name of the ancient city buried by the eruption of Mount Vesuvius?
+What year did the first World War I battle occur?
+Who was the famous British nurse known as "The Lady with the Lamp"?
+What was the name of the first spacecraft to orbit Earth?
+What year did the first televised presidential debate take place?
+Who was the first Emperor of China?
+What was the primary cause of the War of the Roses?
+Who was the first African American to win a Nobel Prize?
+What year did the first modern Olympic marathon take place?
+Who was the first woman to win an Olympic gold medal in track and field?
+What was the name of the first successful steam engine?
+What year did the United Nations get established?
+Who was the famous American aviator who made the first solo nonstop flight across the Atlantic Ocean?
+What was the name of the ancient Greek city-state known for its military prowess?
+What year did the first successful organ transplant occur?
+Who was the first woman to climb Mount Everest?
+What was the primary cause of the Spanish-American War?
+Who was the first African American to play Major League Baseball?
+What year did the first human-made object land on Mars?
+Who was the first woman to be elected to the U.S. Senate?
+What was the name of the first artificial heart?
+What year did the first moon landing occur?
+Who was the famous American inventor who developed the light bulb?
+What was the name of the first constitution of the United States?
+What year did the first television broadcast occur?
+Who was the first woman to win the Pulitzer Prize for Fiction?
+What was the primary cause of the Mexican-American War?
+Who was the first African American to serve on the U.S. Supreme Court?
+What year did the first Nobel Prizes get awarded?
+Who was the first woman to win an Olympic gold medal in swimming?
+What was the name of the ancient Roman road that connected Rome to southeastern Italy?
+What year did the first telephone call take place?
+Who was the first woman to receive a patent in the United States?
+What was the primary cause of the Crimean War?
+Who was the first African American to win an Academy Award?
+What year did the first successful organ transplant occur?
+Who was the first woman to pilot a commercial aircraft?
+What was the name of the first female astronaut?
+What year did the first manned spaceflight occur?
+Who was the famous American abolitionist who wrote "Uncle Tom's Cabin"?
+What was the name of the first human spaceflight program?
+What year did the first American colony get founded?
+Who was the first woman to win the Nobel Peace Prize?
+What was the primary cause of the War of 1812?
+Who was the first African American to serve as U.S. Secretary of State?
+What year did the first artificial satellite launch into space?
+Who was the first woman to run for President of the United States?
+What was the name of the first female Prime Minister of Pakistan?
+What year did the first email get sent?
+Who was the first African American woman to win an Academy Award for Best Actress?
+What was the primary cause of the War of the Roses?
+Who was the first person to fly solo around the world?
+What year did the first modern Olympic Games take place?
+Who was the first woman to win an Olympic gold medal in gymnastics?
+What was the name of the first spacecraft to orbit another planet?
+What year did the first transcontinental railroad get completed?
+Who was the first woman to serve in the U.S. Cabinet?
+What was the primary cause of the Korean War?
+Who was the first African American woman to serve in the U.S. Congress?
+What year did the first successful polio vaccine get developed?
+Who was the famous American civil rights leader who led the Montgomery Bus Boycott?
+What was the name of the first space shuttle?
+What year did the first American woman fly in space?
+Who was the first woman to win an Olympic gold medal in the marathon?
+What was the primary cause of the Spanish Civil War?
+Who was the first African American to win a Grammy Award?
+What year did the first American woman receive a medical degree?
+Who was the first woman to serve as U.S. Secretary of State?
+What was the name of the first permanent English settlement in America?
+What year did the first modern Olympic Games take place?
+Who was the first woman to win a Pulitzer Prize for Drama?
+What was the primary cause of the American Civil War?
+Who was the first African American woman to win a Nobel Prize?
+What year did the first human-made object reach the moon?
+Who was the first woman to serve as U.S. Secretary of Defense?
+What was the name of the first space station?
+What year did the first successful heart transplant occur?
+Who was the famous American suffragist who played a key role in the women's suffrage movement?
+What was the primary cause of World War II?
+Who was the first African American woman to serve in the U.S. Senate?
+What year did the first manned mission land on the moon?
+Who was the first woman to win an Olympic gold medal in boxing?
+What was the name of the first spacecraft to leave the solar system?
+What year did the first human-made object land on Venus?
+Who was the first woman to serve as U.S. Ambassador to the United Nations?
+What was the primary cause of the War of 1812?
+Who was the first African American to serve as U.S. Attorney General?
+What year did the first artificial heart transplant occur?
+Who was the first woman to serve as U.S. National Security Advisor?
+What was the name of the first human spaceflight mission?
+What year did the first World War II battle occur?
+Who was the famous American author who wrote "The Grapes of Wrath"?
+What was the name of the first constitution of the United States?
+What year did the first successful blood transfusion occur?
+Who was the first woman to win an Olympic gold medal in judo?
+What was the primary cause of the War of the Roses?
+Who was the first African American to serve as U.S. Surgeon General?
+What year did the first successful kidney transplant occur?
+Who was the first woman to win the Nobel Prize in Literature?
+What was the name of the first spacecraft to orbit the moon?
+What year did the first successful in vitro fertilization occur?
+Who was the famous American abolitionist who led the Underground Railroad?
+What was the primary cause of the American Revolution?
+Who was the first African American to serve as U.S. Secretary of Housing and Urban Development?
+What year did the first human-made object reach Mars?
+Who was the first woman to serve as U.S. Secretary of the Interior?
+What was the name of the first spacecraft to reach Mars?
+What year did the first successful heart-lung transplant occur?
+Who was the famous American civil rights leader who gave the "I Have a Dream" speech?
+What was the primary cause of the Great Depression?
+Who was the first African American to win the Nobel Peace Prize?
+What year did the first manned spaceflight occur?
+Who was the first woman to serve as U.S. Secretary of Health and Human Services?
+What was the name of the first space probe to visit Jupiter?
+What year did the first successful lung transplant occur?
+Who was the famous American suffragist who helped secure the passage of the 19th Amendment?
+What was the primary cause of the Cold War?
+Who was the first African American woman to serve as U.S. Secretary of State?
+What year did the first human-made object land on the moon?
+Who was the first woman to win an Olympic gold medal in rowing?
+What was the name of the first spacecraft to visit Mars?
+What year did the first successful liver transplant occur?
+Who was the famous American author who wrote "To Kill a Mockingbird"?
+What was the primary cause of World War I?
+Who was the first African American to serve as U.S. Secretary of Transportation?
+What year did the first human-made object reach the moon?
+Who was the first woman to serve as U.S. Secretary of Commerce?
+What was the name of the first space probe to visit Saturn?
+What year did the first successful heart-lung transplant occur?
+Who was the famous American civil rights leader who led the Selma to Montgomery marches?
+What was the primary cause of the Vietnam War?
+Who was the first African American to win an Olympic gold medal?
+What year did the first human-made object land on the moon?
+Who was the first woman to serve as U.S. Secretary of Energy?
+What was the name of the first spacecraft to visit Uranus?
+What year did the first successful heart transplant occur?
+Who was the famous American suffragist who founded the National Woman's Party?
+What was the primary cause of the American Civil War?
+Who was the first African American to serve as U.S. Secretary of Defense?
+What year did the first manned mission land on the moon?
+Who was the first woman to win an Olympic gold medal in tennis?
+What was the name of the first spacecraft to visit Neptune?
+What year did the first successful heart-lung transplant occur?
+Who was the famous American civil rights leader who organized the March on Washington?
+What was the primary cause of World War II?
+
+Who was the 1st President?
+Who was the 2nd President?
+Who was the 3rd President?
+Who was the 4th President?
+Who was the 5th President?
+Who was the 6th President?
+Who was the 7th President?
+Who was the 8th President?
+Who was the 9th President?
+Who was the 10th President?
+Who was the 11th President?
+Who was the 12th President?
+Who was the 13th President?
+Who was the 14th President?
+Who was the 15th President?
+Who was the 16th President?
+Who was the 17th President?
+Who was the 18th President?
+Who was the 19th President?
+Who was the 20th President?
+Who was the 21st President?
+Who was the 22nd President?
+Who was the 23rd President?
+Who was the 24th President?
+Who was the 25th President?
+Who was the 26th President?
+Who was the 27th President?
+Who was the 28th President?
+Who was the 29th President?
+Who was the 30th President?
+Who was the 31st President?
+Who was the 32nd President?
+Who was the 33rd President?
+Who was the 34th President?
+Who was the 35th President?
+Who was the 36th President?
+Who was the 37th President?
+Who was the 38th President?
+Who was the 39th President?
+Who was the 40th President?
+Who was the 41st President?
+Who was the 42nd President?
+Who was the 43rd President?
+Who was the 44th President?
+Who was the 45th President?
+Who was the 46th President?
+
