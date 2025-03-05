@@ -13,6 +13,9 @@ std::unordered_map<std::string, std::string> users = {
     {"Ryan", "Curphey"}
 };
 
+const std::string USERS_FILE = "users.txt";
+
+
 void displayStartPrompt() {
     std::cout << "=============================================================" << std::endl;
     std::cout << "  ____                   _                                    " << std::endl;
@@ -33,8 +36,7 @@ void displayStartPrompt() {
 }
 
 bool login() {
-    std::string username;
-    std::string password;
+    std::string username, password;
 
     std::cout << "Enter username: ";
     std::getline(std::cin, username);
@@ -42,7 +44,6 @@ bool login() {
     std::cout << "Enter password: ";
     std::getline(std::cin, password);
 
-    // Check if the entered username and password match any user
     if (users.find(username) != users.end() && users[username] == password) {
         std::cout << "Login successful!" << std::endl;
         return true;
@@ -53,9 +54,9 @@ bool login() {
     }
 }
 
+
 void createUser() {
-    std::string username;
-    std::string password;
+    std::string username, password;
 
     std::cout << "Enter new username: ";
     std::getline(std::cin, username);
@@ -68,10 +69,39 @@ void createUser() {
     std::cout << "Enter new password: ";
     std::getline(std::cin, password);
 
-    // Add the new user to the users map
     users[username] = password;
+    saveUsers();  // Save to file after adding the user
     std::cout << "User created successfully!" << std::endl;
 }
+
+
+void loadUsers() {
+    std::ifstream file(USERS_FILE);
+    if (!file) {
+        std::cerr << "No user database found. Creating a new one..." << std::endl;
+        return;
+    }
+
+    std::string username, password;
+    while (file >> username >> password) {
+        users[username] = password;
+    }
+    file.close();
+}
+
+void saveUsers() {
+    std::ofstream file(USERS_FILE);
+    if (!file) {
+        std::cerr << "Error saving user data!" << std::endl;
+        return;
+    }
+
+    for (const auto& pair : users) {
+        file << pair.first << " " << pair.second << std::endl;
+    }
+    file.close();
+}
+
 
 // Function to calculate the similarity between two strings (simple character match)
 int calculateSimilarity(const std::string& str1, const std::string& str2) {
@@ -167,6 +197,7 @@ std::string searchPartial(const std::unordered_map<std::string, std::string>& in
 }
 
 int main() {
+	loadUsers();
     displayStartPrompt();
 
     char choice;
