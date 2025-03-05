@@ -54,6 +54,18 @@ bool login() {
     }
 }
 
+void saveUsers() {
+    std::ofstream file(USERS_FILE);
+    if (!file) {
+        std::cerr << "Error saving user data!" << std::endl;
+        return;
+    }
+
+    for (const auto& pair : users) {
+        file << pair.first << " " << pair.second << std::endl;
+    }
+    file.close();
+}
 
 void createUser() {
     std::string username, password;
@@ -89,18 +101,6 @@ void loadUsers() {
     file.close();
 }
 
-void saveUsers() {
-    std::ofstream file(USERS_FILE);
-    if (!file) {
-        std::cerr << "Error saving user data!" << std::endl;
-        return;
-    }
-
-    for (const auto& pair : users) {
-        file << pair.first << " " << pair.second << std::endl;
-    }
-    file.close();
-}
 
 
 // Function to calculate the similarity between two strings (simple character match)
